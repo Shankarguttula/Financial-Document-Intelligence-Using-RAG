@@ -1,0 +1,64 @@
+ACME ROBOTICS, INC.
+FORM 10-K — FISCAL YEAR ENDED DECEMBER 31, 2024
+(Synthetic sample document for demonstration purposes only)
+
+PART I
+
+ITEM 1. BUSINESS
+Acme Robotics, Inc. ("Acme," "we," or "the Company") designs, manufactures, and
+sells autonomous warehouse robots and the cloud software used to coordinate
+them. We operate in two segments: Hardware and Cloud Services. The Company was
+incorporated in Delaware in 2011 and is headquartered in Austin, Texas.
+
+ITEM 1A. RISK FACTORS
+Our business is subject to numerous risks. A small number of large customers
+account for a significant portion of revenue; the loss of any one of them could
+materially harm our results. We depend on a limited number of component
+suppliers, and disruptions in the semiconductor supply chain have in the past
+delayed shipments. Our Cloud Services segment requires ongoing investment, and
+we may not achieve profitability in that segment on the timeline we expect.
+
+PART II
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+Total revenue for fiscal 2024 was $1,284.6 million, an increase of 18.7% from
+$1,082.3 million in fiscal 2023. The increase was driven primarily by growth in
+Cloud Services revenue, which rose 41% year over year as customers expanded
+their fleets. Hardware revenue grew 9% over the same period.
+
+Gross profit was $565.2 million in fiscal 2024, representing a gross margin of
+44.0%, up from 41.2% in fiscal 2023. The margin expansion reflected a favorable
+shift in revenue mix toward higher-margin Cloud Services.
+
+Operating income for fiscal 2024 was $142.0 million, compared to $98.7 million
+in fiscal 2023. Net income was $108.4 million, or $1.92 per diluted share,
+compared to net income of $74.1 million, or $1.33 per diluted share, in the
+prior year.
+
+We ended fiscal 2024 with cash and cash equivalents of $612.9 million and total
+debt of $250.0 million. Free cash flow for fiscal 2024 was $96.3 million.
+
+ITEM 8. FINANCIAL STATEMENTS
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(in millions, except per share data)
+
+| Line item            | FY2024  | FY2023  | FY2022 |
+| -------------------- | ------- | ------- | ------ |
+| Hardware revenue     | 742.1   | 680.8   | 631.5  |
+| Cloud Services       | 542.5   | 401.5   | 268.9  |
+| Total revenue        | 1,284.6 | 1,082.3 | 900.4  |
+| Cost of revenue      | 719.4   | 636.5   | 552.7  |
+| Gross profit         | 565.2   | 445.8   | 347.7  |
+| Operating income     | 142.0   | 98.7    | 61.2   |
+| Net income           | 108.4   | 74.1    | 45.0   |
+| Diluted EPS ($)      | 1.92    | 1.33    | 0.82   |
+
+SEGMENT REVENUE
+Cloud Services revenue grew from $401.5 million in fiscal 2023 to $542.5 million
+in fiscal 2024. Management expects Cloud Services to exceed 50% of total revenue
+by fiscal 2026.
+
+GUIDANCE
+For fiscal 2025, management expects total revenue in the range of $1,480 million
+to $1,540 million and gross margin between 44% and 46%.
